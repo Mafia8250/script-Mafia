@@ -1,4 +1,4 @@
-bfb#!/usr/bin/ bash
+#!/usr/bin/env bash
 rm -f install
 clear
 cr
